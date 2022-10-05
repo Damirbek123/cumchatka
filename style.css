@@ -1,0 +1,202 @@
+header {
+    background-image: url(/fon.jpg);
+    min-height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container img {
+    margin-left: 100px;
+    margin-top: 20px;
+    height: 70px;
+}
+.logo2{
+    margin-left: 200px;
+    margin-top: -69px;
+    color: #FFFFFF;
+    font-size: 35px;
+
+}
+.ssilki {
+    margin-top: -27px;
+    margin-left: 870px;
+    /* White */
+
+/* color: #FFFFFF; */
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+font-size: 30px;
+
+}
+
+a {
+    text-decoration: none;
+    color: #FFFFFF;
+    margin-left: 10px;
+}
+.advertising{
+    margin-left: 100px;
+margin-top: 186px;
+}
+.advertising h1{
+    font-family: 'Gilroy';
+font-style: normal;
+font-weight: 700;
+font-size: 48px;
+line-height: 130%;
+/* or 62px */
+
+
+color: #FFFFFF;
+
+}
+.advertising h2{
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 130%;
+    /* or 62px */
+    
+    
+    color: #FFFFFF;
+    ;  
+}
+.sell{
+     position: absolute;
+left: 121px;
+top: 400px;
+
+
+box-shadow: 0px 15px 24px rgba(0, 0, 0, 0.4);
+border-radius: 8px; 
+display: flex;
+background: #e9e5e5;
+height: 90px;
+width: 952px;
+border-radius: 8px;
+}
+
+.period, .days, .cost {
+    padding-bottom: 20px;
+    padding-top: 45px;
+    border-left: none;
+    border-top: none;
+    border-bottom: none;
+    margin-left: 45px;
+    font-family: 'Inter';
+    
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 17px;
+margin-top: -27px;
+/* identical to box height */
+
+
+
+/* Dark-gray */
+
+color: #5A5A5A;
+
+}
+
+.period {
+    Width: 235px;
+    padding-left: 42px;
+    border-right: 1px solid gray;
+}
+
+.days {
+    Width: 194px;
+    padding-bottom: 20px;
+    padding-top: 48px;
+    border-right: 1px solid gray;
+}
+
+.cost {
+    Width: 312px;
+    padding-bottom: 20px;
+    padding-top: 48px;
+}
+.select{
+    position: absolute;
+width: 211px;
+height: 90px;
+left: 741px;
+top: 90px;
+
+background: #5a74c3;
+border-radius: 8px
+
+}
+.select h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 19px;
+margin-top: 34px;
+margin-left: 55px;
+
+color: #000000;
+bottom: hover;
+
+
+}
+main{
+    min-height: 900px;
+}
+.tur h1 {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 48px;
+/* identical to box height, or 133% */
+
+
+/* Black */
+
+color: #212121;
+margin-top: 147px;
+margin-left: 173px;
+
+
+}
+.picture{
+    background-image: url(/image\ 5.png);
+    width: 268px;
+height: 434px;
+filter: drop-shadow(1px 10px 20px rgba(0, 0, 0, 0.25));
+border-radius: 16px;
+}
+.opis h1{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.opis p{
+    font-family: 'Lato';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+
+/* Gray */
+
+color: #BABABA;
+
+}
